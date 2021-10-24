@@ -125,7 +125,7 @@
 		"strip-bom-buf": "^2.0.0",
 		"supertap": "^1.0.0",
 		"supports-color": "^7.0.0",
-		"trim-off-newlines": "^1.0.1",
+		"trim-off-newlines": "^1.0.3",
 		"trim-right": "^1.0.1",
 		"unique-temp-dir": "^1.0.0",
 		"update-notifier": "^3.0.1",
