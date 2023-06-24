@@ -104,7 +104,7 @@
 		"is-promise": "^2.1.0",
 		"lodash": "^4.17.15",
 		"loud-rejection": "^2.1.0",
-		"make-dir": "^3.0.0",
+		"make-dir": "^4.0.0",
 		"matcher": "^2.0.0",
 		"md5-hex": "^3.0.1",
 		"meow": "^5.0.0",
